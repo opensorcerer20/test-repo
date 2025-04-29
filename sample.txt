@@ -1,2 +1,1 @@
-Adding a new line
-Add new line
+main sample file text
